@@ -112,12 +112,12 @@ form{
     cursor: pointer;
     margin: 30px 0 20px 0;
     border-radius: 5px;
-    background: #7D2AE8;
+    background: #d2b0ff;
     pointer-events: none;
     transition: background 0.3s ease;
   }
   .download-btn:hover{
-    background: #6616d0;
+    background: #d3b1ff;
   }
   @media screen and (max-width: 460px){
     body{
